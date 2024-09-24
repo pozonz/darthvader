@@ -1,5 +1,5 @@
 {
-	"name": "pozoltd/darthvader",
+  "name": "pozoltd/darthvader",
   "description": "CMS",
   "type": "symfony-bundle",
   "license": "proprietary",
@@ -17,8 +17,6 @@
     "symfony/webpack-encore-bundle": "^2.1",
     "stripe/stripe-php": "^15.10",
     "geoip2/geoip2": "^3.0"
-  },
-  "require-dev": {
   },
   "autoload": {
     "psr-4": {

@@ -1,0 +1,28 @@
+{
+	"name": "pozoltd/darthvader",
+  "description": "CMS",
+  "type": "symfony-bundle",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Weida Xue",
+      "email": "luckyweida@gmail.com"
+    }
+  ],
+  "require": {
+    "cocur/slugify": "^4.6",
+    "phpoffice/phpspreadsheet": "^2.2",
+    "bluem/tree": "^3.2",
+    "ramsey/uuid": "^4.7",
+    "symfony/webpack-encore-bundle": "^2.1",
+    "stripe/stripe-php": "^15.10",
+    "geoip2/geoip2": "^3.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "DarthVader\\": ""
+    }
+  }
+}

@@ -14,7 +14,7 @@
     "phpoffice/phpspreadsheet": "^2.2",
     "bluem/tree": "^3.2",
     "ramsey/uuid": "^4.7",
-    "symfony/webpack-encore-bundle": "^2.1",
+    "symfony/webpack-encore-bundle": "^1.8",
     "stripe/stripe-php": "^15.10",
     "geoip2/geoip2": "^3.0"
   },
